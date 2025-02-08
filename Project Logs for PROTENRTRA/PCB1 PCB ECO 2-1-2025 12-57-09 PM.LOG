@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC2_1
+Add Differential Pair: Number of nets in differential pair DS1_D0 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DS1_D1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DS1_D3 is 1 instead of 2
+Added Room: Name=TOP

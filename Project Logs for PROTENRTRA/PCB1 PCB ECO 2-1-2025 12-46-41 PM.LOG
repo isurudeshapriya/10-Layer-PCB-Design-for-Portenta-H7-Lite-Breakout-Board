@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Description : Designator=J7 Old Description=Modular Jack New Description=Modular Jack | Standard | Horizontal (90) | 10P 10C | NF Shielded
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC4_2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=J7-5
+Added Pin To Net: NetName=NetC3_2 Pin=R12-2
+Added Net: Name=NetC3_2
+Add Differential Pair: Number of nets in differential pair DS1_D0 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DS1_D1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DS1_D3 is 1 instead of 2
+Added Member To Class: ClassName=TOP Member=Component C4 885012206071
+Added Member To Class: ClassName=TOP Member=Component R12 CRCW06030000ZSTA
+Added Member To Class: ClassName=TOP Member=Component R13 CRCW06030000ZSTA
+Added Room: Name=TOP

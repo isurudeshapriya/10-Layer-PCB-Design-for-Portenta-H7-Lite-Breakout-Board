@@ -1,0 +1,6 @@
+Change Component Description : Designator=J7 Old Description=Modular Jack New Description=Modular Jack | Standard | Horizontal (90) | 10P 10C | NF Shielded
+Add Differential Pair: Number of nets in differential pair DS1_D0 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DS1_D1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DS1_D3 is 1 instead of 2
+Added Member To Class: ClassName=TOP Member=Component C1 885012206071
+Added Room: Name=TOP
